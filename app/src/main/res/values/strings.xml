@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasswordChecker</string>
+    <string name="textual_result">Password strength is %.2f</string>
+    <string name="meter_result">%.2f</string>
+</resources>
